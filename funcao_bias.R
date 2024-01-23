@@ -13,6 +13,7 @@ bias(actual_temp, predicted_temp )
 actual_sales <- c(150, 203, 137, 247, 116, 287)
 predicted_sales <- c(200, 300, 150, 250, 150, 300)
 
+#adicionando comentario teste no linux
 #função bias
 bias(actual_sales, predicted_sales)
 
